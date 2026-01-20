@@ -137,7 +137,7 @@ This project is open-source under the MIT License.
 
 
 
-**I am giving my best to add more and More features to the app**
+**I am giving my best to add more and More features to the app**.
 
 
 
